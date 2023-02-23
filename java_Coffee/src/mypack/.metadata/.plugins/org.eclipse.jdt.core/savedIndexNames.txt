@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+D:\HK3\OOP\FINAL_PROJECT\java_Coffee\src\mypack\.metadata\.plugins\org.eclipse.jdt.core
